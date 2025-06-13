@@ -15,7 +15,7 @@ if (!isset($_SESSION['user_id'])) {
 }
 
 // Set konfigurasi Midtrans
-\Midtrans\Config::$serverKey = 'SB-Mid-server-cVfq0eR0c_nzvCamzZSlvTx0'; // Ganti dengan server key Anda
+\Midtrans\Config::$serverKey = ''; // Ganti dengan server key Anda
 \Midtrans\Config::$isProduction = false;
 \Midtrans\Config::$isSanitized = true;
 \Midtrans\Config::$is3ds = true;

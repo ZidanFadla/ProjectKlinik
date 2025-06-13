@@ -5,7 +5,7 @@ include '../assets/db/database.php';
 require_once '../vendor/autoload.php';
 
 // Set konfigurasi Midtrans
-\Midtrans\Config::$serverKey = 'SB-Mid-server-p_rr6ZhgUcuXXt7ZJaAJsSM2';
+\Midtrans\Config::$serverKey = '';
 \Midtrans\Config::$isProduction = false;
 \Midtrans\Config::$isSanitized = true;
 \Midtrans\Config::$is3ds = true;
