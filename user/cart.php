@@ -115,7 +115,7 @@ if ($cart_items->num_rows > 0) {
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Keranjang Belanja</title>
     <script src="https://cdn.tailwindcss.com"></script>
-    <script type="text/javascript" src="https://app.sandbox.midtrans.com/snap/snap.js" data-client-key="SB-Mid-client-qFjVxhY0U4Wu5Klp"></script>
+    <script type="text/javascript" src="https://app.sandbox.midtrans.com/snap/snap.js" data-client-key=""></script>
 </head>
 
 <body class="bg-gray-100">
